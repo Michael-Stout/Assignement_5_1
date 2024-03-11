@@ -10,7 +10,6 @@ This assignment aims to study the proportional differences between target groups
 
 + The course supplied Jupyter file with completed assignments 
 + The datafile coupons.csv.
-  + A script is provided to download the data file from my Google Drive and save it to the appropriate directory
 
 ## Assignment Summary
 
